@@ -1,0 +1,28 @@
+name: wh(y) people (x)
+favicon: null
+layout_spectrum: 0.763414369430393
+typography_spectrum: 0.10555766895413399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8374625584110618
+  lightness: 0.7189265543129295
+  saturation: 0.019308333285152912
+  rhythmicContrast: 0.9126376279164106
+purpose: []
