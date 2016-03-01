@@ -1,7 +1,7 @@
 name: wh(y) people (x)
 favicon: null
-layout_spectrum: 0.763414369430393
-typography_spectrum: 0.10555766895413399
+layout_spectrum: 0.38653
+typography_spectrum: 0.25486
 title: adventures in design anthropology
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8374625584110618
-  lightness: 0.7189265543129295
-  saturation: 0.019308333285152912
-  rhythmicContrast: 0.9126376279164106
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
